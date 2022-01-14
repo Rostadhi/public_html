@@ -1,0 +1,2 @@
+[04-Jan-2022 02:28:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097160 bytes) in /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Extractor.php on line 51
+[04-Jan-2022 02:29:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097160 bytes) in /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Extractor.php on line 51
